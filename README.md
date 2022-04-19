@@ -27,7 +27,7 @@
    - 美术组
       - 【美术设计组4月17日开会概要】
         - 📗常驻通知：
-        1️⃣中传北航沟通/分配/执行任务平台[（CODING）]( https://buaacucmeta.coding.net/p/clientuidesign)
+        1️⃣中传北航沟通/分配/执行任务平台[（CODING）]( https://buaacucmeta.coding.net/p/clientuidesign)<\br>
         2️⃣每周日晚会议
         08：30🕣 前端+美术例会
         10：00 APP开发大会（总结/试用/分任务）
